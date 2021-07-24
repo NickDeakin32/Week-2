@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Week 2 Tasks </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<style>
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+
+
+<body>
+
+<div class="header">
+<img>
+  <h1>My Week 2 Webpage!</h1>
+</div>
+
+<div class="topnav">
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Gallery</a>
+</div>
+
+<div class="myrow">
+  <div class="column">
+  <div class ="card">
+  
+  <h2>My Name is Nick.</h2>
+  <p>This page showcases my efforts in completing the Week 2 Tasks given to me within SIT120.</p>
+  </div>
+</div>
+<div class="column">
+<div class="card">
+<h2>Fun Facts About Me:</h2>
+<ul> 
+  <li>I am 21 Years Old</li>
+  <li>I am undertaking 3 subjects during Trimester 2</li>
+  <li>My favourite car is 2000 Nissan Silvia S15</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="card">
+
+<h2>Facts About The Nissan Siliva S15:</h2>
+
+<ul>
+  <li>Contains a 4 cylinder engine</li>
+  <li>Produces 184 Kilowatts</li>
+  <li>Comes in 5 or 6 speed manual transmission or 4 speed automatic</li>
+</ul>
+
+<img src="http://www.j-spec.com.au/lineup/images/Nissan_Silvia_S15_top.jpg" class="center" alt="Nissan S15">
+</div>
+
+<div>
+
+</div>
+</div>
+</div>
+
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFb5I0Cjpuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+
+<div class="footer">
+<p>This is an example of a footer typically found at the bottom of the page.</p>
+</div>
+</body>
+</html>
